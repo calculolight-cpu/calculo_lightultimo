@@ -1,2 +1,3 @@
-# calculo_lightultimo
-plataforma SaaS completa ultimo
+# Cálculo Light — Pacote Final Correto
+
+Login demo: master@calculolight.com / 123456
